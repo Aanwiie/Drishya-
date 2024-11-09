@@ -56,8 +56,8 @@ Future developments include incorporating **3D reconstruction** and **facial rec
    python app.py
    ```   
 
-*Reach out to me at : ayaanninja2403@gmail.com*
+*Reach out to me at :danwesha488@gmail.com*
 **OR**
-*My linkedin:https://www.linkedin.com/in/ayaan-adil-371137268*
+*https://www.linkedin.com/in/anwesha-das-a063b6255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app*
 
-For more details, visit the [DRISHYA GitHub page](https://github.com/ayaanoski/DRISHYA).
+
